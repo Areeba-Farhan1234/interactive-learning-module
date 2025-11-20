@@ -60,10 +60,6 @@ Submit a pull request
 License
 This project is open-source and free to use.
 
-makefile
-Copy code
-::contentReference[oaicite:0]{index=0}
-
 
 
 
